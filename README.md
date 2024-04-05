@@ -1,5 +1,5 @@
 # Diplomado-Competencias-Profesionales
-Poyecto que tiene como finalidad mostrar el conocimiento que tengo sobre github
+Poyecto que tiene como finalidad mostrar el conocimiento que hemos adquirido sobre github
 
 # Proceso de instalacion del Proyecto
 
